@@ -85,7 +85,6 @@ for line in sys.stdin:
         bTree.post_order(bTree.root)
         print(' '.join(rlt))
 
-
     cur += 1
 
 '''
